@@ -9,8 +9,8 @@ Languages.Programming: Python, JavaScript, TypeScript, Java, MATLAB
 Languages.Web: HTML, CSS
 
 Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
-Databases: PostgreSQL  
-Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
+Databases: Postman  
+Tools: Git, GitHub, Docker
 
 Experience:
 - Software Engineering Intern as soon..
