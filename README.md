@@ -32,7 +32,7 @@ Email: ipae@gmail.com
 ### Languages
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,java,py,nextjs,ts,go,matlab&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,java,py,nextjs,ts,go,matlab,nodejs&perline=4" /> 
 </div>
 </a>
 
@@ -41,7 +41,7 @@ Email: ipae@gmail.com
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,powershell,vscode,vercel,discord,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
