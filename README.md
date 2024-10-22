@@ -32,7 +32,7 @@ Email: ipae@gmail.com
 ### Languages
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,java,go,nextjs&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,java,py,ts,go,nextjs&perline=4" /> 
 </div>
 </a>
 
