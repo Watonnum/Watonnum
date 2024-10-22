@@ -1,16 +1,21 @@
-## Hi there 👋
+OS: macOS  
 
-**Watonnum/Watonnum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages.Programming: Python, JavaScript, TypeScript, Java, C++, R, MATLAB  
+Languages.Web: HTML, CSS
 
-Here are some ideas to get you started:
+Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
+Databases: PostgreSQL  
+Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience:
+- Software Engineering Intern at OK Health
+- Lichen Herbarium Research Aide at ASU
 
+Achievements:
+- Runner Up at MakeHarvard 2024
+- Sustainability Track Winner at YHacks (Yale University)
+- Participated in LA Hacks (UCLA)
+
+Email: marora16@asu.edu
+Twitter/X : aroramri
+GitHub: aroramrinaal
