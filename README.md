@@ -17,4 +17,5 @@ Achievements:
 - Participated in LA Hacks (UCLA)
 
 Email: ipae@gmail.com
-instagram : Ipae_
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,go)](https://skillicons.dev)
