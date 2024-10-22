@@ -19,7 +19,7 @@ Email: ipae@gmail.com
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/tayyabadev">
