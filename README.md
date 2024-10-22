@@ -1,3 +1,8 @@
+<h2>𝑰'𝒎 Watanyu onnum 👏</h2>
+
+<h3> About Me --> Coding Is My Passion 👨‍💻 </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 OS: macOS, window10  
 
 Languages.Programming: Python, JavaScript, TypeScript, Java, MATLAB  
