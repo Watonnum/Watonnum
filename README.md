@@ -5,17 +5,17 @@
 
 OS: macOS, window10  
 
-Languages.Programming: Python, JavaScript, TypeScript, Java, MATLAB  
+Languages.Programming: Python, JavaScript, TypeScript, Java
 Languages.Web: HTML, CSS
 
-Frameworks: Next.js, React.js, Prisma, TailwindCSS, Node.js  
-Databases: Postman  
-Tools: Git, GitHub, Docker
+Frameworks: Next.js, React.js, TailwindCSS  
+Databases: mySQL, Node.js
+Tools: Git, GitHub, Docker, Postman
 
 Experience:
 - Software Engineering Intern as soon..
 
-Email: ipae@gmail.com
+Email: ipae.wo@gmail.com
 
 ## Skill Set:
 
