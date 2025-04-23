@@ -9,7 +9,7 @@ Languages.Programming: Python, JavaScript, TypeScript, Java
 Languages.Web: HTML, CSS
 
 Frameworks: Next.js, React.js, TailwindCSS  
-Databases: mySQL, Node.js
+Databases: mySQL, Node.js  
 Tools: Git, GitHub, Docker, Postman
 
 Experience:
