@@ -5,7 +5,7 @@
 
 OS: macOS, window10  
 
-Languages.Programming: Python, JavaScript, TypeScript, Java
+Languages.Programming: Python, JavaScript, TypeScript, Java  
 Languages.Web: HTML, CSS
 
 Frameworks: Next.js, React.js  
