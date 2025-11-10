@@ -8,7 +8,7 @@ OS: macOS, window10
 Languages.Programming: Python, JavaScript, TypeScript, Java
 Languages.Web: HTML, CSS
 
-Frameworks: Next.js, React.js, TailwindCSS  
+Frameworks: Next.js, React.js 
 Databases: mySQL, MongoDB  
 Tools: Git, GitHub, Postman
 
