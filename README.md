@@ -24,7 +24,7 @@ Email: ipae.wo@gmail.com
 ### Frontend  
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,pnpm&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nextjs,react,pnpm&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -32,7 +32,7 @@ Email: ipae.wo@gmail.com
 ### Languages
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,java,py,nextjs,ts,go,matlab,nodejs&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,java,py,ts,go,&perline=4" /> 
 </div>
 </a>
 
